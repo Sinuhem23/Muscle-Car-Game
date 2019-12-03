@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Ford Mustang Eleanor",
-    "image": "https://images.hdqwalls.com/wallpapers/bthumb/ford-mustang-muscle-car-wallpaper.jpg"
+    "image": "https://d39a3h63xew422.cloudfront.net/wp-content/uploads/2017/07/09162729/Eleanor-Mustang-5-1000x666.jpg"
   },
   {
     "id": 2,
@@ -22,7 +22,7 @@
   {
     "id": 5,
     "name": "Dodge Challenger Classic",
-    "image": "https://wallpaperaccess.com/full/39367.jpg"
+    "image": "https://c4.wallpaperflare.com/wallpaper/273/755/675/fast-and-furious-dodge-charger-car-muscle-cars-wallpaper-preview.jpg"
   },
   {
     "id": 6,
@@ -31,7 +31,7 @@
   },
   {
     "id": 7,
-    "name": "Dodge Challenger  Demon",
+    "name": "Dodge Challenger Demon",
     "image": "https://s3.amazonaws.com/ntbrand-wp/topspeedmotors/wp-content/uploads/2018/04/15143427/Top_Speed_American_Muscle_Cars_5a7de5e843dc0ee1383d83d1.jpeg"
   },
   {
@@ -41,13 +41,13 @@
   },
   {
     "id": 9,
-    "name": "Chevrolet Chevelle 1969",
-    "image": "https://cdn.dealeraccelerate.com/flemings/1/3416/50295/790x1024/1969-chevrolet-chevelle-ss572-pro-touring"
+    "name": "Equus Bass 770",
+    "image": "https://mensgear.net/wp-content/uploads/2017/03/Equus-Bass-770-Muscle-Car-7.jpg"
   },
   {
     "id": 10,
-    "name": "Plymouth Barracuda 1968",
-    "image": "https://cache.desktopnexus.com/thumbseg/2234/2234631-bigthumbnail.jpg"
+    "name": "Plymouth Barracuda 1969",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcrIp5KscKmrSw96LkfNJBIZAbIbExQZEVXqTiKdIwBzAgyxWe&s"
   },
   {
     "id": 11,
@@ -56,7 +56,7 @@
   },
   {
     "id": 12,
-    "name": "Chevrolet Camaro Z28",
-    "image": "https://wallpaperaccess.com/full/535523.jpg"
+    "name": "Chevrolet Camaro ZL1",
+    "image": "https://specials-images.forbesimg.com/imageserve/5d112209142c500008c71504/960x0.jpg?fit=scale"
   }
 ]

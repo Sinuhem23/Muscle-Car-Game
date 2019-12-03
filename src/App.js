@@ -150,9 +150,9 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
             className="link"
-            alt="clicky-game-github-link"
+            alt="github-link"
           >
-            <i className="fa fa-github fa-2x"></i>
+            <i className="fab fa-github fa-2x"></i>
           </a>
         </BottomNav>
       </div>
