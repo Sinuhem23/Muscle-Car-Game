@@ -4,6 +4,7 @@
     sans-serif;
   font-size: 1.6rem;
   text-align: center;
+  background-color: rgb(0, 175, 228);
 }
 
 @media (max-width: 960px) {
@@ -15,5 +16,10 @@
 @media (max-width: 620px) {
   .score {
     font-size: 1.2rem;
+  }
+}
+@media (max-width: 375px) {
+  .score {
+    font-size: 1rem;
   }
 }
