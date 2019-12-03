@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Ford Mustang Eleanor",
+    "image": "https://images.hdqwalls.com/wallpapers/bthumb/ford-mustang-muscle-car-wallpaper.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Dodge Challenger",
+    "image": "https://data.whicdn.com/images/297932989/original.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Shelby Mustang GT350",
+    "image": "https://mocah.org/uploads/posts/5000557-ford-mustang-shelby-ford-2019-cars-hd-behance.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Ford Mustang BOSS 302",
+    "image": "https://cdn.motor1.com/images/mgl/eX07K/s1/check-out-robert-downey-jr-s-1970-ford-mustang-boss-302.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Dodge Challenger Classic",
+    "image": "https://wallpaperaccess.com/full/39367.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Pontiac Firebird 1970",
+    "image": "https://images7.alphacoders.com/298/thumb-1920-298002.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Dodge Challenger  Demon",
+    "image": "https://s3.amazonaws.com/ntbrand-wp/topspeedmotors/wp-content/uploads/2018/04/15143427/Top_Speed_American_Muscle_Cars_5a7de5e843dc0ee1383d83d1.jpeg"
+  },
+  {
+    "id": 8,
+    "name": "Ford Mustang Classic",
+    "image": "https://wallup.net/wp-content/uploads/2016/01/111557-muscle_cars-Ford_Mustang-red-car-748x421.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Chevrolet Chevelle 1969",
+    "image": "https://cdn.dealeraccelerate.com/flemings/1/3416/50295/790x1024/1969-chevrolet-chevelle-ss572-pro-touring"
+  },
+  {
+    "id": 10,
+    "name": "Plymouth Barracuda 1968",
+    "image": "https://cache.desktopnexus.com/thumbseg/2234/2234631-bigthumbnail.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Cherolet Camaro SS 1973",
+    "image": "https://cimg1.ibsrv.net/cimg/www.ls1tech.com/1600x900_85-1/905/camaro-4-489905.png"
+  },
+  {
+    "id": 12,
+    "name": "Chevrolet Camaro Z28",
+    "image": "https://wallpaperaccess.com/full/535523.jpg"
+  }
+]
