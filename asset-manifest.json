@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Muscle-Car-Game/static/css/main.a8216768.chunk.css",
+    "main.js": "/Muscle-Car-Game/static/js/main.10b9c872.chunk.js",
+    "main.js.map": "/Muscle-Car-Game/static/js/main.10b9c872.chunk.js.map",
+    "runtime-main.js": "/Muscle-Car-Game/static/js/runtime-main.5b5ddf18.js",
+    "runtime-main.js.map": "/Muscle-Car-Game/static/js/runtime-main.5b5ddf18.js.map",
+    "static/js/2.a6d05585.chunk.js": "/Muscle-Car-Game/static/js/2.a6d05585.chunk.js",
+    "static/js/2.a6d05585.chunk.js.map": "/Muscle-Car-Game/static/js/2.a6d05585.chunk.js.map",
+    "index.html": "/Muscle-Car-Game/index.html",
+    "precache-manifest.6df1cf91b058ef2413693c4e1777889b.js": "/Muscle-Car-Game/precache-manifest.6df1cf91b058ef2413693c4e1777889b.js",
+    "service-worker.js": "/Muscle-Car-Game/service-worker.js",
+    "static/css/main.a8216768.chunk.css.map": "/Muscle-Car-Game/static/css/main.a8216768.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b5ddf18.js",
+    "static/js/2.a6d05585.chunk.js",
+    "static/css/main.a8216768.chunk.css",
+    "static/js/main.10b9c872.chunk.js"
+  ]
+}
